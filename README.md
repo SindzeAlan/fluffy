@@ -1,7 +1,5 @@
 # fluffy
-Repository for the Internet programming and Mobile programming
-
-# CEF440: INTERNET PROGRAMMING AND MOBILE PROGRAMMING
+Repository for the course CEF440: INTERNET PROGRAMMING AND MOBILE PROGRAMMING
 
 ## What are the major types of mobile apps
 Mobile apps are software applications developed specifically to run and be used on small wireless computing devices such as smartphones and tablets rather than larger devices like desktops.
@@ -50,7 +48,7 @@ A mobile app development framework provides developers with a structured way to 
 ## Cost estimation of a mobile app
 -------------------------------------------------------
 |Framework|Language|Time|Developer experience|Cost|
----------------------------------------------------
+|---------|--------|----|--------------------|----|
 |React Native|Javascript|Low|Once developers already know Javascript, React native can be easy to learn and use for development|Low cost because one codebase is used for different platforms|
 |Flutter|Dart|Low|Developers should master the dart programming language to develop in flutter, but once done, cross-platform apps can be developed|Low cost because one codebase is used for different platforms|
 |Xamarin|C# (C-sharp)|medium|Developers knowing C# can easily pick-up the Xamarin framework and start development of cross-platform app|Low cost because Xamarin is cross-platform|
