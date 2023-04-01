@@ -1,6 +1,6 @@
-# Questions for survey or interview
+# Collection of data
 
-## How the collection has been done
+## How the collection of data has been done
 TODO
 
 ## Data collected 
