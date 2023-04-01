@@ -14,8 +14,8 @@ This App is used by both customers and sellers where the customers can review th
 - The buyers are aware of the availability, prices, and location of their desired item before they visit the market
 - The sellers can attract the right customers to their shades
 #### Steps
-- Collection of data for requirements [ [Task 2](task2/data.csv) ]
-- Analyzing of data for requirements [ [Task 3](task3/requirements.md)]
+- Collection of data for requirements [ [Task 2](task2/questions.md) ]
+- Analyzing of data for requirements [ [Task 3](task3/results.md)]
 
 ## Team (Group 10)
 |Matricule|Username|
