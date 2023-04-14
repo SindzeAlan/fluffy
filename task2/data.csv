@@ -1,1 +1,15 @@
-
+q1,q2,q3,q4
+0,['2'],Good,No idea
+0,['0'],By seeing or judging the quality vs quantity of that particular good,"Inflation, reduced demand of a good, reduced supply of a good"
+0,['0'],The quality,Scarcity of goods and high task on goods
+0,['0'],The quality,Scarcity of goods and high task on goods
+1,['2'],By more demand of that particular good,News
+0,['0'],Very expensive,Bi
+0,['2'],Just by looking at the good,Increase in the demand of that price
+1,"['1', '2']",I ask different vendors to have an estimate,"Transportation of goods, availability of the good in the market, the season for seasonal goods"
+0,['2'],Past buying experience,Increase cost of production
+0,['2'],Supply equals demand,Seasonal changes
+0,['2'],High,Location
+0,"['0', '1', '2']",Affordable,"Climate change, infertility of soils, scarcity of raw materials,lack of machinery"
+0,"['1', '2']",Research from other customers,"Season, Availability of raw materials"
+0,['2'],When demand equals supply,"Change in season, change in cost of production, changes in quantity demanded"
