@@ -16,6 +16,7 @@ This App is used by both customers and sellers where the customers can review th
 #### Steps
 - Collection of data for requirements [ [Task 2](task2/questions.md) ]
 - Analyzing of data for requirements [ [Task 3](task3/results.md) ]
+- Design uml diagrams [ [Task 4](task4/software_design.md) ]
 
 ## Team (Group 10)
 |Matricule|Username|
