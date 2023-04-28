@@ -74,4 +74,4 @@ The AI is frequently analyzing collected data to offer better estimation.
 
 
 ## Class diagram
-TODO
+![activity_class_diagram_diagram](img/activity_class_diagram.png)
