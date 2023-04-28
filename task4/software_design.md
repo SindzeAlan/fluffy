@@ -1,77 +1,71 @@
 # Software Design
 
 ## Actors
-In our system, we will have 3 actors.
+In our system, we will have 3 actors:
 
 - The user
 - The seller
 - The customer
 
 ### The user
-Represent the main actor of the system.
+Represents the main actor of the system.
 
 ### The seller
-It's a potential seller looking for customer.
+Is a potential seller looking for customers.
 
 ### The system
-Represent the AI behind the application.
-
+Represents the AI behind the application.
 
 ## Use Case Diagram
 ![use_case_diagram](img/use_case.png)
 
-### User case description
+### Use Case Descriptions
 
-#### Check price of a good
-The user enter the name of a good and get the estimation price.
-It can see more information like:
+#### Check Price of a Good
+The user enters the name of a good and gets an estimated price. They can see more information, such as:
 
-- estimation by location
-- estimation by market
-- how the estimation was done
-- if another customers approved it
+- Estimation by location
+- Estimation by market
+- How the estimation was done
+- If other customers approved it
 
 #### Browse a Market
-The user open the market page and can see registered markets by location and the market price stability level of each market.
-Can also see the different market sales places.
+The user opens the market page and can see registered markets by location and the market price stability level of each market. They can also see the different market sales places.
 
-#### Send a feedback
-When the user detect a wrong estimation or a fraud in the application, he can send signal it.
-These different signalling can be:
+#### Send Feedback
+When the user detects a wrong estimation or a fraud in the application, they can send a signal. These different signals can be:
 
 - Feedback about a market price
 - Feedback about a sales place
 
-#### Create sales place
-The seller enter some information about him and his sales place.
+#### Create Sales Place
+The seller enters some information about themselves and their sales place.
 
-#### Update an article
-The seller enter some information about the article he offer.
+#### Update an Article
+The seller enters some information about the article they offer.
 
-#### Update market price
-The AI is frequently analyzing collected data to offer better estimation.
+#### Update Market Price
+The AI is frequently analyzing collected data to offer better estimations.
 
+## Activity Diagrams
 
-## Activity Diagram
-
-### Check market price
+### Check Market Price
 ![activity_check_market_price_diagram](img/activity_check_market_price.png)
 
-### Browse a market
+### Browse a Market
 ![activity_browse_market_diagram](img/activity_browse_market.png)
 
-### Send feedback
+### Send Feedback
 ![activity_send_feedback_diagram](img/activity_send_feedback.png)
 
-### Create sales place
+### Create Sales Place
 ![activity_create_sales_place_diagram](img/activity_create_sales_place.png)
 
-### Update article
+### Update Article
 ![activity_update_article_diagram](img/activity_update_article.png)
 
-### Update market price
+### Update Market Price
 ![activity_update_market_diagram](img/activity_update_market.png)
 
-
-## Class diagram
-![activity_class_diagram_diagram](img/activity_class_diagram.png)
+## Class Diagram
+![class_diagram](img/class_diagram.png).
