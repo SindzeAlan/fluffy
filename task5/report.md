@@ -1,9 +1,11 @@
-###INTRODUCTION :
+INTRODUCTION
+---
 
 Let’s start with an overview of what is software design in software engineering. It is the process of creating software methods, functions, objects, and the general structure and interaction of your code such that the resulting functionality meets the needs of your users. There are numerous approaches to software design. Various developers prefer varying levels of design upfront or during the execution process. Generally, before beginning coding , the overall design should be thoroughly thought out and reviewed. It is easier to try out different designs early in the development cycle and find problems than to make a significant design change after most of the code has been written. 
 
 
-##Objectives of Software Design
+Objectives of Software Design
+---
 
 The following objectives describe what is software design in software engineering.
 
@@ -18,7 +20,8 @@ The following objectives describe what is software design in software engineerin
 **Maintainability** : A good software design should be flexible when the client issues a modification request. 
 
 
-#Levels of Software Design 
+Levels of Software Design
+---
 
 There are 3 levels of software design.
 
@@ -33,11 +36,13 @@ After the high level design is completed, the detailed design begins. Each modul
 
 
 
-##USER INTERFACE (UI) Design
+USER INTERFACE (UI) Design
+---
 
 User Interface (UI) design is the process designers use to build interfaces in software or computerized devices, focusing on looks or style. Designers aim to create interfaces which users find easy to use and other forms.
 
-#Designing User Interfaces for Users
+Designing User Interfaces for Users
+---
 
 User interfaces are the access points where users interact with designs. They come in three formats :
 
@@ -60,7 +65,8 @@ To design UIs best, we should consider:
 -	Good design is emotional design. Users associate good feelings with brands that speak to them at all levels and keep the magic of pleasurable, seamless experiences alive.
 
 
-##Tools used for UI Design 
+Tools used for UI Design
+---
  
 There are several tools used in UI design. Some are :
 
@@ -76,22 +82,23 @@ An illustration is a decoration, interpretation or visual explanation of a text,
 
 In the development of this project, we used Adobe XD for the UI design and HTML, CSS and JAVASCRIPT for the implementation.
 
-## User Interfaces
+User Interfaces
+---
+
 The following paragraph deals with the various user interfaces that will be available in the market management system
 
 The application is built as a web application so there is both a mobile view and a desktop view 
 some interfaces include:
-IMG-20230527-WA0016.jpg
-for login in the mobile view 
-IMG-20230527-WA0010.jpg
-for dashboard in the desktop view
 
-now some interfaces that will be in the desktop view include
-IMG-20230527-WA0011.jpg
-login as shown in the desktop view
-IMG-20230527-WA0012.jpg
-dashboard for the buyers as shown in the desktop view
-IMG-20230527-WA0013.jpg
-registration as seen in the desktop view
-IMG-20230527-WA0017.jpg
-Become a seller
+![for login in the mobile view](img1.jpg)
+
+![for dashboard in the desktop view](img2.jpg)
+
+![login as shown in the desktop view](img3.jpg)
+
+![dashboard for the buyers as shown in the desktop view](img4.jpg)
+
+![registration as seen in the desktop view](img5.jpg)
+
+![Become a seller](img6.jpg)
+
