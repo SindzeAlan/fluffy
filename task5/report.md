@@ -90,15 +90,15 @@ The following paragraph deals with the various user interfaces that will be avai
 The application is built as a web application so there is both a mobile view and a desktop view 
 some interfaces include:
 
-![for login in the mobile view](img1.jpg)
+![for login in the mobile view](img/img1.jpg)
 
-![for dashboard in the desktop view](img2.jpg)
+![for dashboard in the desktop view](img/img2.jpg)
 
-![login as shown in the desktop view](img3.jpg)
+![login as shown in the desktop view](img/img3.jpg)
 
-![dashboard for the buyers as shown in the desktop view](img4.jpg)
+![dashboard for the buyers as shown in the desktop view](img/img4.jpg)
 
-![registration as seen in the desktop view](img5.jpg)
+![registration as seen in the desktop view](img/img5.jpg)
 
-![Become a seller](img6.jpg)
+![Become a seller](img/img6.jpg)
 
